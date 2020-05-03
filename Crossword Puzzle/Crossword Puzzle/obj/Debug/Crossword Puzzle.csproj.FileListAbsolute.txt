@@ -1,0 +1,12 @@
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\bin\Debug\Crossword Puzzle.exe.config
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\bin\Debug\Crossword Puzzle.exe
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\bin\Debug\Crossword Puzzle.pdb
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword Puzzle.csprojAssemblyReference.cache
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword_Puzzle.Form1.resources
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword_Puzzle.Properties.Resources.resources
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword Puzzle.csproj.GenerateResource.cache
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword Puzzle.exe
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword Puzzle.pdb
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\obj\Debug\Crossword_Puzzle.Clues.resources
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\bin\Debug\Puzzles\Puzzle1.PZL
+C:\Users\edigi\Desktop\FSW\Spring 2020\C#\Crossword\Crossword Puzzle\Crossword Puzzle\bin\Debug\Puzzles\Puzzle2.PZL
